@@ -1,5 +1,5 @@
 # IMDbMovieDatabase
-CahHacks OmniSci Competition Candidate - IMDB Movie Database
+CahHacks OmniSci Competition Candidate - IMDb Movie Database
 
 ## Description
 Collection of IMDb Movie data to a Sqlite database. 
