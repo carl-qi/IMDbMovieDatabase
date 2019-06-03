@@ -1,4 +1,4 @@
-# IMDBMovieDatabase
+# IMDbMovieDatabase
 CahHacks OmniSci Competition Candidate - IMDB Movie Database
 
 ## Description
